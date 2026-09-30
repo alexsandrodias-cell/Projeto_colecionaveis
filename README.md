@@ -4,10 +4,10 @@ API RESTful desenvolvida para gerenciamento de um acervo de itens colecionáveis
 
 # Integrantes
 
-Alexsandro Dias dos Santos
-Evelyn Lorrany Costa Porto
-Izadora Gomes Miranda
-Sandro Alex Dias dos Santos Júnior
+- Alexsandro Dias dos Santos
+- Evelyn Lorrany Costa Porto
+- Izadora Gomes Miranda
+- Sandro Alex Dias dos Santos Júnior
 
 ## Tecnologias
 
